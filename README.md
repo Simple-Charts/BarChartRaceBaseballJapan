@@ -2,7 +2,7 @@
   This is the source code for creating a bar chart race animation of Baseball League Japan.  
 
 ## Example  
-  [![Simple Charts / Baseball League Japan 1950-2022](https://img.youtube.com/vi/oZQfj7Tp0No/0.jpg)](https://www.youtube.com/watch?v=oZQfj7Tp0No "Simple Charts / Baseball League Japan 1950-2022")  
+  [![Simple Charts / Baseball League Japan 1950-2022](https://img.youtube.com/vi/7UU6xZYmsRE/0.jpg)](https://www.youtube.com/watch?v=7UU6xZYmsRE "Simple Charts / Baseball League Japan 1950-2022")  
 
 ## Data Source
   日本プロ野球記録   
