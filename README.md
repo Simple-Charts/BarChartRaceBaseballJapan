@@ -10,7 +10,7 @@
 ## Setup  
   1. install Anaconda3-2020.02  
       https://repo.anaconda.com/archive/Anaconda3-2020.02-Windows-x86_64.exe
-  2. install FFmpeg
+  2. install FFmpeg   
      https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip   
      download, unzip, and add "C:{folder path}\ffmpeg-master-latest-win64-gpl\bin" to the PATH environment variable.
   3. create virtual environment and install packages  
