@@ -5,7 +5,8 @@
   [![Simple Charts / Baseball League Japan 1950-2022](https://img.youtube.com/vi/oZQfj7Tp0No/0.jpg)](https://www.youtube.com/watch?v=oZQfj7Tp0No "Simple Charts / Baseball League Japan 1950-2022")  
 
 ## Data Source
-  日本プロ野球記録  https://2689web.com/games.html
+  日本プロ野球記録   
+  https://2689web.com/games.html
 
 ## Setup  
   1. install Anaconda3-2020.02  
