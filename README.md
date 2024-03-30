@@ -22,7 +22,7 @@
 ## Usage  
   Send the following commands in virtual environment of python  
   &nbsp;&nbsp;&nbsp;&nbsp; cd {folder path}  
-  &nbsp;&nbsp;&nbsp;&nbsp; python 1_get_raw_data.py  
+  &nbsp;&nbsp;&nbsp;&nbsp; python 1_get_data.py  
   &nbsp;&nbsp;&nbsp;&nbsp; python 2_preprocess.py   
   &nbsp;&nbsp;&nbsp;&nbsp; python 3_BarChartRaceBaseballJapan.py   
   &nbsp;&nbsp;&nbsp;&nbsp; python 4_create_video.py   
