@@ -4,7 +4,7 @@ from tqdm import tqdm
 import pandas as pd
 
 team =[]
-for tn in tqdm(range(1950, 2023)):
+for tn in tqdm(range(1950, 2024)):
     url = 'https://2689web.com/' + str(tn) +'.html'
     r = requests.get(url)
     r.encoding = r.apparent_encoding
